@@ -1,0 +1,10 @@
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\bin\Debug\FileEncrypterW.exe.config
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\bin\Debug\FileEncrypterW.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\bin\Debug\FileEncrypterW.pdb
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\obj\Debug\FileEncrypterW.csprojAssemblyReference.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\obj\Debug\FileEncrypterW.MainForm.resources
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\obj\Debug\FileEncrypterW.Properties.Resources.resources
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\obj\Debug\FileEncrypterW.csproj.GenerateResource.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\obj\Debug\FileEncrypterW.csproj.CoreCompileInputs.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\obj\Debug\FileEncrypterW.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\FileEncrypterW\FileEncrypterW\obj\Debug\FileEncrypterW.pdb
